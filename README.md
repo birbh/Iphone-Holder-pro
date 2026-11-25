@@ -8,4 +8,7 @@
 
 Lastly, there is a nail holder in the model too in the back so that you can attach your phone to a screw or nail mounted in wall. 
 
-## images
+## images:
+<img width="910" height="1094" alt="screenshot-2026-10-03-at-92419-pm" src="https://github.com/user-attachments/assets/778c43db-7490-4775-aa99-80fa40c57fc4" />
+<img width="912" height="998" alt="screenshot-2026-10-03-at-92503-pm" src="https://github.com/user-attachments/assets/10ae5c7d-5911-40f4-9416-d29b71cf5556" />
+
